@@ -32,17 +32,17 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: Cornell University
-  # logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
     Department of Earth and Atmospheric Science <br/>
     Ph.D. Student
   date: Aug. 2023 - present
 - name: University of Alaska Fairbanks University
-  # logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/PKU_red.png
   position: M.S. in Geophysics
   date: Aug. 2021 - May. 2023
 - name: University of Alaska Fairbanks University
-  # logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/PKU_red.png
   position: B.S. in Geophysics
   date: Aug. 2018 - May. 2021
 
@@ -52,10 +52,10 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
